@@ -484,7 +484,7 @@ function generateResponse(input) {
     if (responses[input]) {
         return responses[input]();
     } else {
-        return "Извини, но я не понял твое сообщение, возможно ты допустил ошибку";
+        return "Проект BOARDRIDERS прекратил свою работу навсегда, бот больше не поддерживается!";
     }
 }
 
